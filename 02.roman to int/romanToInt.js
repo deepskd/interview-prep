@@ -1,4 +1,4 @@
-const romanToInt = (roman = 'III') => {
+const romanToInt = roman => {
   const symbols = {
     I: 1,
     V: 5,
